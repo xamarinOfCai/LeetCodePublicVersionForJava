@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Test485",
+            "request": "launch",
+            "mainClass": "Test485",
+            "projectName": "LeetCodePublicVersionForJava_490be8d8"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Test",
             "request": "launch",
             "mainClass": "Test"
